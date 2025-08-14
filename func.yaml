@@ -1,9 +1,0 @@
-# $schema: https://raw.githubusercontent.com/knative/func/refs/tags/v0.36.0/schema/func_yaml-schema.json
-# yaml-language-server: $schema=https://raw.githubusercontent.com/knative/func/refs/tags/v0.36.0/schema/func_yaml-schema.json
-specVersion: 0.36.0
-name: func-python
-runtime: python
-registry: us-central1-docker.pkg.dev/hive-451307/hive/knative-func/
-created: 2025-08-14T13:39:54.915151+08:00
-build:
-  builder: pack
